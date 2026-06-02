@@ -1,4 +1,4 @@
-uuid = env.UUID || "ad80b5ad-c12e-4614-a95e-18e3fb77a064";
+= env.UUID || "ad80b5ad-c12e-4614-a95e-18e3fb77a064";
     
     if (url.pathname === '/sub') {
       const host = url.hostname;
